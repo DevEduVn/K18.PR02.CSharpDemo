@@ -1,0 +1,7 @@
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.InterfaceDemo\bin\Debug\Lesson07.InterfaceDemo.exe.config
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.InterfaceDemo\bin\Debug\Lesson07.InterfaceDemo.exe
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.InterfaceDemo\bin\Debug\Lesson07.InterfaceDemo.pdb
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.InterfaceDemo\obj\Debug\Lesson07.InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.InterfaceDemo\obj\Debug\Lesson07.InterfaceDemo.exe
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.InterfaceDemo\obj\Debug\Lesson07.InterfaceDemo.pdb
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.InterfaceDemo\obj\Debug\Lesson07.InterfaceDemo.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.SummaryOOPCollections\bin\Debug\Lesson07.SummaryOOPCollections.exe.config
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.SummaryOOPCollections\bin\Debug\Lesson07.SummaryOOPCollections.exe
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.SummaryOOPCollections\bin\Debug\Lesson07.SummaryOOPCollections.pdb
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.SummaryOOPCollections\obj\Debug\Lesson07.SummaryOOPCollections.csproj.CoreCompileInputs.cache
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.SummaryOOPCollections\obj\Debug\Lesson07.SummaryOOPCollections.exe
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.SummaryOOPCollections\obj\Debug\Lesson07.SummaryOOPCollections.pdb
+D:\Hpc-Poly\Lap-trinh-web-nang-cao-aspnet\K18.PR02.Demo\K18.PR02.CSharpDemo\Lesson07.SummaryOOPCollections\obj\Debug\Lesson07.SummaryOOPCollections.csprojAssemblyReference.cache
